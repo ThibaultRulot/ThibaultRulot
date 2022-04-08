@@ -1,0 +1,6 @@
+technology,investment cost [€/kWe],maintenance cost [€/kWe/y],gwp construction [kgCO2eq/kWe],lifetime [y],capacity factor [%],minimum installed capacity [GW],maximum installed capacity [GW]
+solar PV,870,"18,8",2081,25,"11,9",0,"59,2"
+Onshore Wind Turbine,1040,"2,9","622,9",30,"24,3",0,10
+Offshore Wind Turbine,4975,"9,8","622,9",30,"41,2",0,6
+Hydro River,5045,"50,44",1263,40,"48,4","0,38","0,38"
+Geothermal,7488,142,"24,9",30,86,0,0
